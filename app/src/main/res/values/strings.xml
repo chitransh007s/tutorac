@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookingApp</string>
+    <string name="back_button">Back</string>
+    <string name="screen_1">Book Ticket</string>
+    <string name="screen_2">Select Seats</string>
+    <string name="screen_3">Customer Details</string>
+    <string name="screen_4">Booking Confirmed</string>
+</resources>
